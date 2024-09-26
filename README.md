@@ -1,4 +1,6 @@
 ## Hi there 👋
+![fatwhopper](https://github.com/user-attachments/assets/52bd1b09-5c3f-4e9c-878d-d9eb36d11305)
+
 
 <!--
 **Longjeongin/Longjeongin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
